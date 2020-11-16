@@ -41,7 +41,7 @@ $ yarn test && npm run test
 
 ```
 
-<p>obs: caso você use os comandos acima para iniciar o projeto em seu emulador e ele não funcione, tente rodar:</p>
+obs: caso você use os comandos acima para iniciar o projeto em seu emulador e ele não funcione, tente rodar:
 ```bash 
   $ yarn start && npm run start
 ```
